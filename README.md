@@ -1,3 +1,5 @@
+# Kaggle Prostate cANcer graDe Assessment (PANDA) Challenge
+
 This repo contains my submission to the Kaggle Prostate cANcer graDe Assessment (PANDA) Challenge 2020 and my supporting work. This competition, sponsored by the Radboud University Medical Center and Karolinska Institute, sought to drive the creation of the first ML/DL powered system for grading tissue biopsy images for prostate cancer (PCa) detection at or above pathologist-level accuracy on a large dataset including samples collected from more than one research center. 
 
 Challenges:
